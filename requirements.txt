@@ -1,0 +1,7 @@
+# Python Version
+python == 3.10.*
+
+# Packages
+scikit-image
+scipy
+joblib
